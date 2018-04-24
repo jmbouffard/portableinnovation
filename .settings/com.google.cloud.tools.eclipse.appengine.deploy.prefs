@@ -4,5 +4,5 @@ include.optional.configuration.files=true
 project.bucket=
 project.id=portableinnovation
 project.previousVersion.stop=true
-project.promote=false
-project.version=5
+project.promote=true
+project.version=6
